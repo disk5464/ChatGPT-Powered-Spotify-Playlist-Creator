@@ -77,6 +77,13 @@ Sort of. When you create a new ChatGPT dev account it will set you up with some 
 The script uses the SSO provided by Spotify's API to log into your account. When the script hits the login section it will launch your default browser and go to http://localhost:4202 to either grab your cached credentials or to have you log in. This is all done by spotify's API, no credentials are handled by the script. 
 
 
+### What is hank.ico? 
+It's the icon that I chose for the GUI. It's super tiny, but it's Hank Hill from King of the Hill. I happened to have it handy and figured why not. This is the full-resolution version in case you were wondering what it looks like. 
+
+<p align="center"><img src="https://github.com/user-attachments/assets/b3fb3e9a-4dae-4cbb-af24-a720835340f4"> </p>
+
+
+
 ### How do I get a chat GPT API key?
 
 
@@ -88,7 +95,7 @@ The script uses the SSO provided by Spotify's API to log into your account. When
 
 **Step 4:** Click "Create New Secret Key".  
 
-  **Step 5:** Once the key is created you will get the "Save your key" prompt. The key in this popup is what you will need to save and put into the API_keys.json file
+**Step 5:** Once the key is created you will get the "Save your key" prompt. The key in this popup is what you will need to save and put into the API_keys.json file
 
 
 ### How do I get the Spotify API keys?
