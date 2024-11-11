@@ -67,9 +67,14 @@ Yep. Just right-click on a song, artist, album, etc, and click "Go to song radio
 Because this is more fun, plus it allowed me to learn more about Python, APIs, and how ChatGPT works.
 
 
-### Does is cost money?
+### Does this cost money?
 
 Sort of. When you create a new ChatGPT dev account it will set you up with some free credits, however if you have exaushted this you will need to pay 5 bucks to add some credits. As for Spotify, the dev account is free however this program may only work for paid Spotify premium accounts, which I haven't tested with free spotify accounts.
+
+
+### How does this log into my Spotify account?
+
+The script uses the SSO provided by Spotify's API to log into your account. When the script hits the login section it will launch your default browser and go to http://localhost:4202 to either grab your cached credentials or to have you log in. This is all done by spotify's API, no credentials are handled by the script. 
 
 
 ### How do I get a chat GPT API key?
