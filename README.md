@@ -88,7 +88,7 @@ The script uses the SSO provided by Spotify's API to log into your account. When
 
 **Step 4:** Click "Create New Secret Key".  
 
-**Step 5:** Once the key is created you will get the "Save your key" prompt. The key in this popup is what you will need to save and put into the API_keys.json file
+  **Step 5:** Once the key is created you will get the "Save your key" prompt. The key in this popup is what you will need to save and put into the API_keys.json file
 
 
 ### How do I get the Spotify API keys?
