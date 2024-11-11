@@ -1,5 +1,5 @@
 # ChatGPT Powered Spotify Playlists 
-This python program will create a playlist in your Spotify with songs suggested from chat GPT based on a given song.
+This python program will create a playlist in your Spotify account with songs suggested from Chat GPT based on a given song and artist.
 
 
 
